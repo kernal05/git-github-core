@@ -1,6 +1,6 @@
-# Master the git here
+# Master the git 
 
-# Practical Git and Github : From Basics to Pro Workflows
+# Practical Git and Github : From Basics to Pro 
 
 ## What is Git?
 
