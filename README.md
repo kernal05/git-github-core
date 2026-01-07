@@ -1,4 +1,4 @@
-# git-github-core
+# Master the git here
 
 # Practical Git and Github : From Basics to Pro Workflows
 
